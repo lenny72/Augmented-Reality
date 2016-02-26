@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+        <item id="1">
+                <name type="HH">Fridge</name>
+                <min-val>100</min-val>
+				<max-val>150</max-val>
+                <description>This is a fridge</description>
+        </item>
+        <item id="2">
+                <name type="HH">Microwave</name>
+				<min-val>400</min-val>
+				<max-val>600</max-val>
+				<description>This is a microwave</description>
+        </item>
+        <item id="3">
+                <name type="HH">Toaster</name>
+				<min-val>200</min-val>
+				<max-val>300</max-val>
+				<description>This is a Toaster</description>
+        </item>
+        <item id="4">
+                <name type="HW">Electromotor-3000</name>
+				<min-val>400</min-val>
+				<max-val>600</max-val>
+				<description>This is a electromotor</description>
+        </item>
+        <item id="5">
+                <name type="HW">PC</name>
+				<min-val>60</min-val>
+				<max-val>300</max-val>
+				<description>This is a PC</description>
+        </item>
+</Items>

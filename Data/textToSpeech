@@ -1,0 +1,4 @@
+var su = new SpeechSynthesisUtterance();
+        su.lang = "nl";
+        su.text = "text hier";
+        speechSynthesis.speak(su);

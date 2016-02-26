@@ -1,0 +1,185 @@
+/* CSS Document */
+.background{
+	
+	
+	
+}
+
+body{
+	background-color:#30342F;
+	color:#FFF;
+}
+
+.item{
+ 	text-align: center;
+}
+.itemins{
+	background-color:#2B3129;
+	width:96%;
+	margin:2%;
+    display: inline-block;
+	height:100%;
+}
+.status{
+	display:hidden;	
+}
+
+/*  NAVBAR kleuren */
+
+.navbar-default {
+  background-color: #202a1d;
+  border-color: #2b3129;
+}
+.navbar-default .navbar-brand {
+  color: #4c554a;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #b9ccb4;
+}
+.navbar-default .navbar-text {
+  color: #4c554a;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #4c554a;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #b9ccb4;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #b9ccb4;
+  background-color: #2b3129;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #b9ccb4;
+  background-color: #2b3129;
+}
+.navbar-default .navbar-toggle {
+  border-color: #2b3129;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #2b3129;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #4c554a;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #4c554a;
+}
+.navbar-default .navbar-link {
+  color: #4c554a;
+}
+.navbar-default .navbar-link:hover {
+  color: #b9ccb4;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #4c554a;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #b9ccb4;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #b9ccb4;
+    background-color: #2b3129;
+  }
+}
+
+/*  BUTTON CSS  */
+
+.btn-custom {
+  background-color: #202A1D;
+  border-color: #202A1D;
+}
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active {
+  background-color: #151b13;
+  border-color: #090c08;
+}
+.btn-custom.disabled:hover,
+.btn-custom.disabled:focus,
+.btn-custom.disabled:active,
+.btn-custom.disabled.active,
+.btn-custom[disabled]:hover,
+.btn-custom[disabled]:focus,
+.btn-custom[disabled]:active,
+.btn-custom[disabled].active,
+fieldset[disabled] .btn-custom:hover,
+fieldset[disabled] .btn-custom:focus,
+fieldset[disabled] .btn-custom:active,
+fieldset[disabled] .btn-custom.active {
+  background-color: #202A1D;
+  border-color: #202A1D;
+}
+
+/* BUTTON RED */ 
+
+.btn-customred {
+  background-color: #281013;
+  border-color: #281013;
+}
+.btn-customred:hover,
+.btn-customred:focus,
+.btn-customred:active,
+.btn-customred.active {
+  background-color: #16090a;
+  border-color: #040102;
+}
+.btn-customred.disabled:hover,
+.btn-customred.disabled:focus,
+.btn-customred.disabled:active,
+.btn-customred.disabled.active,
+.btn-customred[disabled]:hover,
+.btn-customred[disabled]:focus,
+.btn-customred[disabled]:active,
+.btn-customred[disabled].active,
+fieldset[disabled] .btn-customred:hover,
+fieldset[disabled] .btn-customred:focus,
+fieldset[disabled] .btn-customred:active,
+fieldset[disabled] .btn-customred.active {
+  background-color: #281013;
+  border-color: #281013;
+}
+
+/* BLACK BUTTON  */ 
+
+.btn-customblack {
+  background-color: #212121;
+  border-color: #212121;
+}
+.btn-customblack:hover,
+.btn-customblack:focus,
+.btn-customblack:active,
+.btn-customblack.active {
+  background-color: #141414;
+  border-color: #080808;
+}
+.btn-customblack.disabled:hover,
+.btn-customblack.disabled:focus,
+.btn-customblack.disabled:active,
+.btn-customblack.disabled.active,
+.btn-customblack[disabled]:hover,
+.btn-customblack[disabled]:focus,
+.btn-customblack[disabled]:active,
+.btn-customblack[disabled].active,
+fieldset[disabled] .btn-customblack:hover,
+fieldset[disabled] .btn-customblack:focus,
+fieldset[disabled] .btn-customblack:active,
+fieldset[disabled] .btn-customblack.active {
+  background-color: #212121;
+  border-color: #212121;
+}
+
